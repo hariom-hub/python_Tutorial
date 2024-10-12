@@ -1,0 +1,13 @@
+
+tuples = ("hariom","gaurisha","shreesha")
+tuple2 = (10,20,30,1,2,3,5,11)
+print(tuples)
+print(tuples.count("hariom"))
+print(tuples.index("gaurisha"))
+print(sum(tuple2))
+print(len(tuple2))
+print(max(tuple2))
+print(sorted(tuple2))
+print(min(tuple2))
+print(2 in tuple2)
+print(2000 in tuple2)
