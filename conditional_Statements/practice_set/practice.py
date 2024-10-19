@@ -16,7 +16,7 @@
 from idlelib.colorizer import prog_group_name_to_tag
 from tabnanny import check
 
-#question 2
+# question 2
 
 # marks1 = int(input("Enter the marks : "))
 # marks2 = int(input("Enter the marks : "))
@@ -27,7 +27,7 @@ from tabnanny import check
 # else:
 #     print("failed")
 
-#question 3
+# question 3
 # spam1 = "Makes a lot of money"
 # spam2 = "buy now"
 # spam3 = "subscribe this"
@@ -45,14 +45,14 @@ from tabnanny import check
 # else:
 #     print("not a spam sentence.")
 
-#question 4
+# question 4
 # username = input("Enter a username : ")
 # if len(username) < 10 :
 #     print("less than 10 chars")
 # else :
 #     print("more than or equal to 10 chars")
 
-#question 5
+# question 5
 
 # li = ["hariom","gaurisha","shreesha","navneet","babita","manju"]
 #
@@ -62,7 +62,24 @@ from tabnanny import check
 # else:
 #     print("your name is not present in the list.")
 
-#question 6
+# question 6
+
+grade = int(input("Enter the grades : "))
+
+if 90 <= grade <= 100:
+    print("Excellent.")
+elif 80 <= grade <= 90:
+    print("A")
+elif 70 <= grade <= 80:
+    print("B")
+elif 60 <= grade <= 70:
+    print("C")
+elif 50 <= grade <= 60:
+    print("D")
+else:
+    print("Fail")
+
+# question 7
 
 # post = input("Enter the post details : ")
 # name = input("Enter the name : ")
