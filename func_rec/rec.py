@@ -1,9 +1,5 @@
 # recursion using python
 import random
-from random import choice
-from urllib.parse import uses_relative
-
-
 # factorial program
 
 def Fact(n):
