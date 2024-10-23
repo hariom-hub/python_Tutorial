@@ -11,3 +11,4 @@ def rem(l, word):
 l = ["hariom", "gaurisha", "shreesha", "gadha"]
 word = input("Enter a word : ")
 print(rem(l, word))
+    
