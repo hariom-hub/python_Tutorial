@@ -1,0 +1,32 @@
+[10, 20, 30, 40, 50, 60, 70, 80, 90, 100][20, 40, 60, 80, 100, 120, 140, 160, 180, 200]
+[20, 40, 60, 80, 100, 120, 140, 160, 180, 200]
+[30, 60, 90, 120, 150, 180, 210, 240, 270, 300]
+[40, 80, 120, 160, 200, 240, 280, 320, 360, 400]
+
+[50, 100, 150, 200, 250, 300, 350, 400, 450, 500]
+ printing the table of 60
+[60, 120, 180, 240, 300, 360, 420, 480, 540, 600]
+ printing the table of 100
+[100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
+ printing the table of 3
+[3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
+ printing the table of 3
+[3]
+ printing the table of 3
+[3, 6]
+ printing the table of 3
+[3, 6, 9]
+ printing the table of 3
+[3, 6, 9, 12]
+ printing the table of 3
+[3, 6, 9, 12, 15]
+ printing the table of 3
+[3, 6, 9, 12, 15, 18]
+ printing the table of 3
+[3, 6, 9, 12, 15, 18, 21]
+ printing the table of 3
+[3, 6, 9, 12, 15, 18, 21, 24]
+ printing the table of 3
+[3, 6, 9, 12, 15, 18, 21, 24, 27]
+ printing the table of 3
+[3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
