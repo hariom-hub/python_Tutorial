@@ -9,4 +9,6 @@ Note - lists in python are immutable
 
 **"os" is used to rename a text file in python but we have to import it as <h3>import os**
 ***
-In python, _ _ init_ _(): defines a "donder" method.
+In python, _ _ init_ _(): defines a "dunder" method, which is automatically called.
+
+*instance attribute takes preference over class attribute in python*
