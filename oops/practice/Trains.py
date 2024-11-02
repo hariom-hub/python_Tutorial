@@ -2,10 +2,10 @@ class indianTrains:
     def booktickect(self):
         n = int(input("Enter the number of passengers : "))
         passengers = list()
-        for x in range(n):
-            passengers[x] = input(f"enter the name of the person {x} : ")
+        for x in range(0, n):
+            passengers.append(input(f"Enter the name of the passenger {x} : "))
 
-        print(passengers)
+        print(f"passengers for journey : {passengers}")
 
     def getStaus(self):
         tickets = int(input("Enter the number of tickets you want to book : "))
@@ -17,4 +17,4 @@ class indianTrains:
 
 
 obj = indianTrains()
-obj.booktickect()
+obj.fareInfo()
