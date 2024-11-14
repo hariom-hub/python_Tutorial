@@ -12,3 +12,5 @@ Note - lists in python are immutable
 In python, _ _ init_ _(): defines a "dunder" method, which is automatically called.
 
 *instance attribute takes preference over class attribute in python*
+
+**now we will be getting started with the advanced python concepts**
